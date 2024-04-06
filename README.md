@@ -1,45 +1,78 @@
-# LoveZenVibe
+# Love Zen Vibe by ZenitoGR
 
-Simply put a diary - but - made in a way to be your favorite app to interact with and keep track of what matters in your life!
+    Simply put a app to keep track of what matters in your life!
 
-## what you love - what makes you zen - what make you vibe
+## why pick love zen vibe?
 
-Focused on what you love, makes you zen and makes you vibe!
-With LoveZenVibe you have a guided way of viewing the world.
+    1. love:
 
-what you love is your core
-what makes you zen is your balance
-what makes you vibe is your actions
+        everything you love
+        makes your core
+        your values
+        your ideas
 
-With these concepts you can keep track of healthy self and life!!!
+        what you love
+        is what drives you
+    
+    2. zen:
 
-## Copilot input - what are the most requested features
+        being zen
+        is the only way
+        to be yourself
+    
+    3. vibe:
 
-Based on the feature requests in the most popular apps, users are looking for several key features to enhance their experience:
+        when you vibe
+        you feel fulfilled
 
-- User-Friendly Interface: A well-designed and intuitive interface is crucial for a seamless user experience1.
-- ‘How-To’ Screens: Educational screens that help users understand how to use the app’s features1.
-- Chat Support/Callback Functions: Quick and easy access to support through the app1.
-- Search Option: An essential feature that allows users to easily find what they’re looking for within the app1.
-- Battery Preservation: Apps should be optimized to minimize battery drain1.
-- Push Notifications: Timely and relevant notifications to keep users informed and engaged2.
-- Offline Functionality: Allowing users to use the app without an internet connection2.
 
-These features are considered must-haves for successful, user-friendly mobile apps. It’s important to note that the specific importance of each feature can vary depending on the type of app and its target audience. For a more detailed exploration, you might want to look into the sources provided for a comprehensive list of features valued by users.
+    With these concepts
+    you have a healthy life!
 
-## Tauri + Vue 3 + TypeScript
+## Project Status
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+    Early development phase.
 
-## Recommended IDE Setup
+### Implemented
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+    1. Functionality
 
-## Type Support For `.vue` Imports in TS
+    - There is only a homepage and 3 empty pages
 
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's Take Over mode by following these steps:
+    2. UI
 
-1. Run `Extensions: Show Built-in Extensions` from VS Code's command palette, look for `TypeScript and JavaScript Language Features`, then right click and select `Disable (Workspace)`. By default, Take Over mode will enable itself if the default TypeScript extension is disabled.
-2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
+    - transparency and shadows
+    - custom title bar and buttons
+    - animations on mouse hover
+    - navigate between the pages
 
-You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
+    3. Supported platfroms
+
+    - Windows 11
+
+    4. Stack
+
+    - Tauri (Web Frontend - Rust Backend)
+        - Frontend:
+            - Vue 3
+            - TS
+            - pnpm
+        - Backend
+            - Rust
+        - Plugins:
+            - Transparency [window-vibrancy on GitHub](https://github.com/tauri-apps/window-vibrancy)
+            - Shadows [window-shadows on GitHub](https://github.com/tauri-apps/window-shadows)
+
+### Roadmap
+
+1. There is no roadmap.
+2. I am developing this in my free time.
+3. I am a new developer so my workflow is slow and eratic.
+
+## Contact Me
+
+### Let's chat on DeltaChat - guaranteed e2ee
+
+1. [get DeltaChat app](https://delta.chat/en/download)
+2. use a random email with the invite QR code or use your current email
+3. [link to chat with me on DeltaChat](https://i.delta.chat/#CB04A1FB2A32D1498430D602668BFE05AC2884B8&a=zenito%40zengod.gr&n=zenitogr&i=0kh3VzHD-Nx&s=KtyYpDWeO4c)
