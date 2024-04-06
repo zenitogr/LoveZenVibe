@@ -1,37 +1,34 @@
 # Love Zen Vibe by ZenitoGR
 
-    Simply put a app to keep track of what matters in your life!
+Simply put a app to keep track of what matters in your life!
 
 ## why pick love zen vibe?
 
-    1. love:
+1. love:
 
-        everything you love
-        makes your core
-        your values
-        your ideas
+    everything you love
+    makes your core
+    your values
+    your ideas
 
-        what you love
-        is what drives you
-    
-    2. zen:
+    what you love
+    is what drives you
+2. zen:
 
-        being zen
-        is the only way
-        to be yourself
-    
-    3. vibe:
+    being zen
+    is the only way
+    to be yourself
+3. vibe:
 
-        when you vibe
-        you feel fulfilled
-
+    when you vibe
+    you feel fulfilled
 
     With these concepts
     you have a healthy life!
 
 ## Project Status
 
-    Early development phase.
+Early development phase.
 
 ### Implemented
 
