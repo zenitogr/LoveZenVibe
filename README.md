@@ -70,6 +70,5 @@ Early development phase.
 
 ### Let's chat on DeltaChat - guaranteed e2ee
 
-1. [get DeltaChat app](https://delta.chat/en/download)
-2. use a random @nine.testrun.org email address or use your current email
-3. [link to chat with me on DeltaChat](https://i.delta.chat/#CB04A1FB2A32D1498430D602668BFE05AC2884B8&a=zenito%40zengod.gr&n=zenitogr&i=0kh3VzHD-Nx&s=KtyYpDWeO4c)
+1. [get DeltaChat app](https://delta.chat/en/download) and use a random @nine.testrun.org email address or use your current email
+2. [link to chat with me on DeltaChat](https://i.delta.chat/#CB04A1FB2A32D1498430D602668BFE05AC2884B8&a=zenito%40zengod.gr&n=zenitogr&i=0kh3VzHD-Nx&s=KtyYpDWeO4c)
