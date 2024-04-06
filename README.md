@@ -72,5 +72,10 @@ Early development phase.
 
 1. [get DeltaChat app](https://delta.chat/en/download) and use a random @nine.testrun.org email address or use your current email
 2. to chat with me:
-   a. scan the invitation QR code ![image](https://github.com/zenitogr/LoveZenVibe/assets/109196423/14c438be-e6ea-459a-88bf-e453145b11df)
-   b. or [click the invite link](https://i.delta.chat/#CB04A1FB2A32D1498430D602668BFE05AC2884B8&a=zenito%40zengod.gr&n=zenitogr&i=0kh3VzHD-Nx&s=KtyYpDWeO4c)
+   
+   - scan the invitation QR code
+
+    ![image](https://github.com/zenitogr/LoveZenVibe/assets/109196423/78ca4aca-ff4f-4464-bc58-84906daa9afe)
+
+   
+   - or [click the invite link](https://i.delta.chat/#CB04A1FB2A32D1498430D602668BFE05AC2884B8&a=zenito%40zengod.gr&n=zenitogr&i=0kh3VzHD-Nx&s=KtyYpDWeO4c)
