@@ -1,0 +1,49 @@
+{
+  "build": {
+    "beforeDevCommand": "pnpm dev",
+    "beforeBuildCommand": "pnpm build",
+    "devPath": "http://localhost:1420",
+    "distDir": "../dist",
+    "withGlobalTauri": false
+  },
+  "package": {
+    "productName": "lovezenvibe",
+    "version": "0.0.1"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "shell": {
+        "all": false,
+        "open": true
+      },
+      "window": {
+        "all":true
+      }
+    },
+    "windows": [
+      {
+        "title": "LoveZenVibe",
+        "fullscreen": false,
+        "resizable": true,
+        "width": 800,
+        "height": 600,
+        "center": true,
+        "transparent": true,
+        "decorations": false
+      }
+    ],
+    "security": {
+      "csp": null
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "floss.zenitogr.lovezenvibe",
+      "icon": [
+        "icons/3wayIconsLoveZenVibe3.icns",
+        "icons/3wayLoveZenVibe3.ico"
+      ]
+    }
+  }
+}
