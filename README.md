@@ -1,5 +1,19 @@
+# LoveZenVibe
 
-# Copilot input
+Simply put a diary - but - made in a way to be your favorite app to interact with and keep track of what matters in your life!
+
+## what you love - what makes you zen - what make you vibe
+
+Focused on what you love, makes you zen and makes you vibe!
+With LoveZenVibe you have a guided way of viewing the world.
+
+what you love is your core
+what makes you zen is your balance
+what makes you vibe is your actions
+
+With these concepts you can keep track of healthy self and life!!!
+
+## Copilot input - what are the most requested features
 
 Based on the feature requests in the most popular apps, users are looking for several key features to enhance their experience:
 
