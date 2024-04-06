@@ -35,22 +35,22 @@
 
 ### Implemented
 
-    1. Functionality
+1. Functionality
 
     - There is only a homepage and 3 empty pages
 
-    2. UI
+2. UI
 
     - transparency and shadows
     - custom title bar and buttons
     - animations on mouse hover
     - navigate between the pages
 
-    3. Supported platfroms
+3. Supported platfroms
 
     - Windows 11
 
-    4. Stack
+4. Stack
 
     - Tauri (Web Frontend - Rust Backend)
         - Frontend:
