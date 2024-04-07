@@ -3,18 +3,18 @@
     <h1>Welcome to LoveZenVibe!</h1>
 
     <div class="row">
-      <a class="lovea" href="#" @click="emit('setView', 'love')">
-        <img src="/love.png" class="logo lovea" alt="Love logo" />
-        <h1 class="lovea">Love</h1>
-      </a>
-      <a class="zena" href="#" @click="emit('setView', 'zen')">
-        <img src="/zen.png" class="logo zena" alt="Zen logo" />
-        <h1 class="zena">Zen</h1>
-      </a>
-      <a class="vibea" href="#" @click="emit('setView', 'vibe')">
-        <img src="/vibe.png" class="logo vibea" alt="Vibe logo" />
-        <h1 class="vibea">Vibe</h1>
-      </a>
+      <button class="lovea"  @click="emit('setView', 'love')">
+        <img src="/love.png" class="logo love" alt="Love logo" />
+        <h1 class="love">Love</h1>
+      </button>
+      <button class="zena" @click="emit('setView', 'zen')">
+        <img src="/zen.png" class="logo zen" alt="Zen logo" />
+        <h1 class="zen">Zen</h1>
+      </button>
+      <button class="vibea"  @click="emit('setView', 'vibe')">
+        <img src="/vibe.png" class="logo vibe" alt="Vibe logo" />
+        <h1 class="vibe">Vibe</h1>
+      </button>
     </div>
     <p>Your Zen Garden of love zen and vibe!</p>
   </div>

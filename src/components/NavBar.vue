@@ -7,5 +7,5 @@
 </script>
 
 <template>
-  <a href="#" @click="emit('setView', 'home')"><h1>Home</h1></a>
+  <button class="homea" @click="emit('setView', 'home')"><h1>Home</h1></button>
 </template>

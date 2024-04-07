@@ -9,8 +9,8 @@
 <template>
   <div class="row">
     <div class="lovea">
-      <img src="/love.png" class="logo lovea" alt="Love logo" />
-      <h1 class="lovea">Love</h1>
+      <img src="/love.png" class="logo love" alt="Love logo" />
+      <h1 class="love">Love</h1>
     </div>
   </div>
 </template>
