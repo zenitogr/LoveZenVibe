@@ -4,15 +4,15 @@
 
     <div class="row">
       <button class="lovea"  @click="emit('setView', 'love')">
-        <img src="/love.png" class="logo love" alt="Love logo" />
+        <img src="/love.png" class="logo loveb" alt="Love logo" />
         <h1 class="love">Love</h1>
       </button>
       <button class="zena" @click="emit('setView', 'zen')">
-        <img src="/zen.png" class="logo zen" alt="Zen logo" />
+        <img src="/zen.png" class="logo zenb" alt="Zen logo" />
         <h1 class="zen">Zen</h1>
       </button>
       <button class="vibea"  @click="emit('setView', 'vibe')">
-        <img src="/vibe.png" class="logo vibe" alt="Vibe logo" />
+        <img src="/vibe.png" class="logo vibeb" alt="Vibe logo" />
         <h1 class="vibe">Vibe</h1>
       </button>
     </div>
