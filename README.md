@@ -71,6 +71,7 @@ Early development phase.
 ### Let's chat on DeltaChat - guaranteed e2ee
 
 1. [get DeltaChat app](https://delta.chat/en/download) and use a random @nine.testrun.org email address or use your current email
+
 2. to chat with me:
 
    - scan the invitation QR code
